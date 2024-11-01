@@ -48,7 +48,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 AETHER
 - Website: [aetherz.xyz](https://aetherz.xyz)
-- Email: [aetherscode@gmail.com] (mailto:aetherscode@gmail.com)
+- Email: aetherscode@gmail.com
 - WhatsApp: [+62 857-9804-5817](https://wa.me/6285798045817)
 - GitHub: [@aetherzcode](https://github.com/aetherzcode)
 
